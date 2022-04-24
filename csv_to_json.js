@@ -42,8 +42,8 @@ while (c < translations_lines.length) {
 	var ens = en.split(', ');
 
 	// escape '
-	ens[0] = ens[0].replaceAll("'", "\\'");
-	words[ru_id] = words[ru_id].replaceAll("'", "\\'");
+	ens[0] = ens[0].replaceAll("'", '');
+	words[ru_id] = words[ru_id].replaceAll("'", '');
 
 	// created en<>russian translation json
 	en_to_russian[ens[0]] = words[ru_id];
