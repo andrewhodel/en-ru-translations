@@ -1,0 +1,1 @@
+Data from https://app.togetherdb.com/db/fwoedz5fvtwvq03v/russian3/translations and SQL JOINed with https://app.togetherdb.com/db/fwoedz5fvtwvq03v/russian3/words via the CSV files that are exported for those two tables.
